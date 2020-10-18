@@ -14,8 +14,13 @@ int main() {
    unsigned int y; // exponent
    cin >> y; // input exponent
 
+  
    // count from 1 to y and multiply power by x each time
-   while () {
+   while (i<=y) {
+      power= power *x;
+      ++i;
+     
+
       
    } // end while
 

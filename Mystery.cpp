@@ -8,6 +8,9 @@ int main() {
 
    while (x <= 10) {
       int y = x * x;
+      total+=y;  //adding total and increasing the value of x
+      ++x;
+   
 
    } 
 
